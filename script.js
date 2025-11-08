@@ -47,7 +47,7 @@ function concatenateArray() {
   //Write your code here, just console.log
   let ids = arr.length;
     let arr1 = [
-      { id: ids + 1, name: "Rohan", age: "25", profession: "devops" },
+      { id: ids + 1, name: "Rohan", age: "25", profession: "devops" }
      
     ];
   let array = arr.concat(arr1);
@@ -56,3 +56,4 @@ function concatenateArray() {
 
 
 //concatenateArray();
+
